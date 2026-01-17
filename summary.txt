@@ -1,0 +1,13 @@
+=== Project Summary / 项目摘要 ===
+Promo proxy quantile / 促销代理分位数: bottom 0.25
+
+=== KPI: Promo vs Non-Promo (proxy) / 指标对比：低价组 vs 非低价组 ===
+ promo_flag  rows  qty_sum  qty_mean  price_mean  total_sum  total_mean  total_median  share  aov_proxy
+          0   748   4118.0  5.505348   67.179198  277674.86  371.223075       328.295  0.748 371.223075
+          1   252   1392.0  5.523810   21.516230   29912.52  118.700476       101.710  0.252 118.700476
+
+=== Price Elasticity (log-log) / 价格弹性（对数回归）===
+Elasticity b: 0.0062
+Interpretation: price +1% -> quantity 0.62% (approx)
+R^2: 0.0000, N: 1000
+Note: correlational, not causal. / 注意：相关性，不代表因果。

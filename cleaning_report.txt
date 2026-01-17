@@ -1,0 +1,20 @@
+=== Summary / 总览 ===
+Input rows/cols: 1000 / 9
+Output rows/cols: 1000 / 9
+Rows removed: 0
+
+=== Tax scaling fix / 税缩放修复 ===
+Rows with scaled tax fixed: 0
+
+=== Dedup / 去重 ===
+Dropped duplicates: 0
+
+=== Invalid rows / 无效行删除 ===
+dropped_missing_critical: 0
+dropped_nonpositive: 0
+dropped_inconsistent_total: 0
+
+=== Outlier capping / 异常值截断 ===
+capped_Unit price: 0
+capped_Quantity: 0
+
