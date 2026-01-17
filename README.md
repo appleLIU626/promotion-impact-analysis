@@ -103,4 +103,4 @@ The dashboard includes:
 ## Author
 **Shihao Liu**  
 Aspiring Data Analyst | Python • SQL • Tableau  
-[LinkedIn URL] | [GitHub URL]
+www.linkedin.com/in/shihao-liu-2a611114a
