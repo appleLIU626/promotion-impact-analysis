@@ -78,7 +78,7 @@ This supports targeted, category-specific promotion recommendations.
 
 ## Dashboard
 👉 **Interactive Tableau Public Dashboard:**  
-[Add your Tableau Public link here]
+https://public.tableau.com/app/profile/shihao.liu2065/viz/ImpactofLow-PricePromotionsonSalesQuantity/ImpactofLow-PricePromotionsonSalesQuantity
 
 The dashboard includes:
 - KPI overview comparing Low Price vs Regular Price transactions
